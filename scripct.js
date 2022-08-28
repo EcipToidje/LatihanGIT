@@ -8,3 +8,6 @@ const biodata = {
 function panggil() {
   console.log();
 }
+
+function name(params) {}
+function name1(params) {}
